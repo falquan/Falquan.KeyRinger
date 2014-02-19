@@ -1,0 +1,5 @@
+C:\Users\Falquan\documents\visual studio 2012\Projects\Falquan.KeyRinger\Falquan.KeyRinger.Models\bin\Debug\Falquan.KeyRinger.Models.dll
+C:\Users\Falquan\documents\visual studio 2012\Projects\Falquan.KeyRinger\Falquan.KeyRinger.Models\bin\Debug\Falquan.KeyRinger.Models.pdb
+C:\Users\Falquan\documents\visual studio 2012\Projects\Falquan.KeyRinger\Falquan.KeyRinger.Models\obj\Debug\Falquan.KeyRinger.Models.dll
+C:\Users\Falquan\documents\visual studio 2012\Projects\Falquan.KeyRinger\Falquan.KeyRinger.Models\obj\Debug\Falquan.KeyRinger.Models.pdb
+C:\Users\Falquan\documents\visual studio 2012\Projects\Falquan.KeyRinger\Falquan.KeyRinger.Models\obj\Debug\Falquan.KeyRinger.Models.csprojResolveAssemblyReference.cache

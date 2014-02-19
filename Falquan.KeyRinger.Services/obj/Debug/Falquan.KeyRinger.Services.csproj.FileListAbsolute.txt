@@ -1,0 +1,11 @@
+C:\Users\Falquan\documents\visual studio 2012\Projects\Falquan.KeyRinger\Falquan.KeyRinger.Services\bin\Debug\Falquan.KeyRinger.Services.dll
+C:\Users\Falquan\documents\visual studio 2012\Projects\Falquan.KeyRinger\Falquan.KeyRinger.Services\bin\Debug\Falquan.KeyRinger.Services.pdb
+C:\Users\Falquan\documents\visual studio 2012\Projects\Falquan.KeyRinger\Falquan.KeyRinger.Services\obj\Debug\Falquan.KeyRinger.Services.dll
+C:\Users\Falquan\documents\visual studio 2012\Projects\Falquan.KeyRinger\Falquan.KeyRinger.Services\obj\Debug\Falquan.KeyRinger.Services.pdb
+C:\Users\Falquan\documents\visual studio 2012\Projects\Falquan.KeyRinger\Falquan.KeyRinger.Services\obj\Debug\Falquan.KeyRinger.Services.csprojResolveAssemblyReference.cache
+C:\Users\Falquan\documents\visual studio 2012\Projects\Falquan.KeyRinger\Falquan.KeyRinger.Services\bin\Debug\Falquan.KeyRinger.Data.dll
+C:\Users\Falquan\documents\visual studio 2012\Projects\Falquan.KeyRinger\Falquan.KeyRinger.Services\bin\Debug\Falquan.KeyRinger.Models.dll
+C:\Users\Falquan\documents\visual studio 2012\Projects\Falquan.KeyRinger\Falquan.KeyRinger.Services\bin\Debug\EntityFramework.dll
+C:\Users\Falquan\documents\visual studio 2012\Projects\Falquan.KeyRinger\Falquan.KeyRinger.Services\bin\Debug\Falquan.KeyRinger.Data.pdb
+C:\Users\Falquan\documents\visual studio 2012\Projects\Falquan.KeyRinger\Falquan.KeyRinger.Services\bin\Debug\Falquan.KeyRinger.Models.pdb
+C:\Users\Falquan\documents\visual studio 2012\Projects\Falquan.KeyRinger\Falquan.KeyRinger.Services\bin\Debug\EntityFramework.xml

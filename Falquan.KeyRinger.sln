@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Falquan.KeyRinger.Web", "Falquan.KeyRinger.Web\Falquan.KeyRinger.Web.csproj", "{3BE378C0-A847-415F-BD0E-BBF5E0C74D33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Falquan.KeyRinger.Tests", "Falquan.KeyRinger.Tests\Falquan.KeyRinger.Tests.csproj", "{73FFD6DE-6FF8-4362-ACBE-317AE3C76CB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Falquan.KeyRinger.Models", "Falquan.KeyRinger.Models\Falquan.KeyRinger.Models.csproj", "{200A64C0-1E84-4E66-8BF3-7F7FEBA0AB44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Falquan.KeyRinger.Data", "Falquan.KeyRinger.Data\Falquan.KeyRinger.Data.csproj", "{62C90BDC-EF6B-41E9-A405-17EAD5EDD81F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Falquan.KeyRinger.Api", "Falquan.KeyRinger.Api\Falquan.KeyRinger.Api.csproj", "{123C9AD1-140C-4B7A-A59F-5197A5E6EC92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Falquan.KeyRinger.Services", "Falquan.KeyRinger.Services\Falquan.KeyRinger.Services.csproj", "{F863FE5B-A14F-42D1-B245-46D9D30627A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{123C9AD1-140C-4B7A-A59F-5197A5E6EC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{123C9AD1-140C-4B7A-A59F-5197A5E6EC92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{123C9AD1-140C-4B7A-A59F-5197A5E6EC92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{123C9AD1-140C-4B7A-A59F-5197A5E6EC92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{200A64C0-1E84-4E66-8BF3-7F7FEBA0AB44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200A64C0-1E84-4E66-8BF3-7F7FEBA0AB44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{200A64C0-1E84-4E66-8BF3-7F7FEBA0AB44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{200A64C0-1E84-4E66-8BF3-7F7FEBA0AB44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BE378C0-A847-415F-BD0E-BBF5E0C74D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE378C0-A847-415F-BD0E-BBF5E0C74D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE378C0-A847-415F-BD0E-BBF5E0C74D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BE378C0-A847-415F-BD0E-BBF5E0C74D33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62C90BDC-EF6B-41E9-A405-17EAD5EDD81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C90BDC-EF6B-41E9-A405-17EAD5EDD81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C90BDC-EF6B-41E9-A405-17EAD5EDD81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C90BDC-EF6B-41E9-A405-17EAD5EDD81F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73FFD6DE-6FF8-4362-ACBE-317AE3C76CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73FFD6DE-6FF8-4362-ACBE-317AE3C76CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73FFD6DE-6FF8-4362-ACBE-317AE3C76CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73FFD6DE-6FF8-4362-ACBE-317AE3C76CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F863FE5B-A14F-42D1-B245-46D9D30627A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F863FE5B-A14F-42D1-B245-46D9D30627A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F863FE5B-A14F-42D1-B245-46D9D30627A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F863FE5B-A14F-42D1-B245-46D9D30627A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
